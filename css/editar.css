@@ -1,0 +1,75 @@
+body{
+	padding:0;
+	margin: 0;
+	font-family: "Arial";
+	
+}
+.container{
+	padding: 5px;
+	margin:20px;
+	width: 650px;
+	height: 450px;
+	border:solid lightblue 3px;
+
+}
+
+#titulo{
+	display: inline;
+	align-items: center;
+}
+
+img{
+	width: 100px;
+
+}
+h2{	
+	color: lightblue;
+	padding-right: 15px;
+	font-family: "Arial";
+	display: inline;
+	align-items: center;
+	text-align: center;
+	position: absolute;
+
+}
+
+form{
+	padding: 2px;
+	margin:2px;
+	height: 500px;
+}
+
+form, #texto{
+	
+	width: 600px;
+	height: 50px;
+	color: black;
+}
+
+a, button{
+	padding: 10px;
+	display: inline-block;
+	text-decoration: none;
+
+}
+button:hover{
+
+	background: lightgreen;
+	color: white;
+	font-size: 15px;
+	width: 100px;
+	height: auto;
+}
+
+#actu{
+	width: 90px;
+	height: 35px;
+}
+#actu:hover{
+
+	background: lightgreen;
+	color: white;
+	font-size: 15px;
+	width: 100px;
+	height: 50px;
+}

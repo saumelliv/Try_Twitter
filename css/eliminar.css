@@ -1,0 +1,73 @@
+body{
+	padding:0;
+	margin: 0;
+	font-family: "Arial";
+	
+}
+.container{
+	padding: 5px;
+	margin:20px;
+	width: 650px;
+	height: 450px;
+	border:solid lightblue 3px;
+
+}
+img{
+	width: 100px;
+
+}
+h1{
+	
+	color: lightblue;
+	padding-right: 15px;
+	font-family: "Arial";
+	display: inline;
+	align-items: center;
+	text-align: center;
+	float: right;
+	position: absolute;
+
+}
+h2{
+	color: lightblue;
+	padding-right: 15px;
+	font-family: "Arial";
+	text-decoration: underline;
+}
+
+
+
+
+form, #texto{
+	
+	width: 600px;
+	
+}
+
+button{
+	width: 100px;
+	height: 35px;
+	font-size: 22px;
+}
+button:hover{
+
+	background: lightgreen;
+	color: white;
+	font-size: 30px;
+	width: 110px;
+	height: auto;
+}
+
+#eli{
+	width: 100px;
+	height: 35px;
+	font-size: 22px;
+}
+#eli:hover{
+
+	background: lightgreen;
+	color: white;
+	font-size: 30px;
+	width: 110px;
+	height: auto;
+}

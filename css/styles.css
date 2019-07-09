@@ -1,0 +1,66 @@
+body{
+	padding: 0;
+	margin:0;
+
+}
+.container{
+	padding: 5px;
+	margin:20px;
+	width: 500px;
+	height: 450px;
+	border:solid lightblue 3px;
+}
+
+img{
+	width: 100px;
+
+}
+h1{
+	float:right;
+	color: lightblue;
+	padding-right: 15px;
+	font-family: "Arial";
+}
+h5{
+	padding: 0;
+	margin:0;
+	color:lightblue;
+	font-size: 20px;
+}
+
+#formu{
+	padding: 10px;
+	padding-top: 30;
+}
+#msj{
+	width: 450px;
+	height: 170px;
+	padding: 0;
+	margin:0;
+}
+#public{
+	padding: 5px;
+	margin: 5px;
+	width: 100px;
+	height: 30px;
+	
+	font-family: "Arial";
+	border-radius: 7px;
+}
+#public:hover{
+	background:lightblue;
+	color:white;
+}
+#ir{
+	padding: 5px;
+	margin: 15px;
+	float: right;
+	width: 100px;
+	height: 30px;
+	font-family: "Arial";
+	border-radius: 7px;
+}
+#ir:hover{
+	background:lightblue;
+	color:white;
+}
